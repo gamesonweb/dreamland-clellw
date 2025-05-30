@@ -1,15 +1,15 @@
 <template>
-  <BabylonExamples />
+  <NemasuProject />
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import BabylonExamples from './components/BabylonExamples.vue';
+import NemasuProject from './components/NemasuProject.vue';
 
 export default defineComponent({
   name: 'App',
   components: {
-    BabylonExamples
+    NemasuProject
   }
 });
 </script>
