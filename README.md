@@ -8,11 +8,11 @@ Membres de l'équipe / pseudonymes Github:
 
 BETEILLE Clément / clellw
 
-### Description du jeu:
+### Description du jeu
 
 Nemasu Project est un jeu en 3D à la 3ème personne qui combine jeu d'aventure et jeu de tir. L'objectif et de venir en aide à des personnes victimes d'un étrange incident, les plongeants dans un rêve dont elles ne peuvent pas sortir. Alors que Reimu profitait de son jour de repos, elle est rapidement impliquée dans cet incident et forcée à agir pour le bien de ses amies.
 
-### Comment jouer:
+### Comment jouer
 
 Le jeu se joue à la troisième personne et vous permet de vous déplacer dans toutes les directions que vous voulez:
 
@@ -38,7 +38,7 @@ Clic souris: tirer
 
 Lors des combats, vous devez tirer sur le boss afin de réduire sa barre de vie à zéro. Le boss va également envoyer des projectiles dans votre direction, que vous devrez esquiver. Si vous êtes touchés, vous serez incapables de bouger et de tirer pendant quelques secondes, mais votre personnage n'a pas de barre de vie, donc pas besoin d'avoir peur de perdre une vie ou de recommencer le combat.
 
-### Eléments du jeu:
+### Eléments du jeu
 
 - Personnages:
 
@@ -104,11 +104,11 @@ Les musiques utilisées proviennent de différents jeux-vidéos. Elles sont list
 
 Des portraits sont utilisés dans le jeu lors des cinématiques. Ils proviennent tous du jeu vidéo _Touhou Puppet Dance Performance (Touhoumon)_, fangame de la série _Touhou Project_.
 
-## Informations Complémentaires:
+## Informations Complémentaires
 
 J'ai réalisé ce projet en deux mois dans une équipe dont j'étais le seul membre. Naturellement, j'ai beaucoup de retours à faire sur mon expérience et sur le jeu que j'ai réalisé. J'avais depuis longtemps en tête le résultat que je voulais atteindre et je pense m'y être rapproché le  plus possible. Certains points sont importants à mentionner d'après moi:
 
-### structure du jeu:
+### structure du jeu
 
 le jeu est composé de beaucoup de scènes différentes et leur enchainement peut paraître un peu compliqué. les scènes sont séparées en 4 parties: Les scènes d'exploration, les cinématiques, et les scènes de combat. Les scènes ou le personnage est controllable sont séparées par une ou des cinématiques, et la structure globale des scènes est la suivante:
 
@@ -121,7 +121,7 @@ le jeu est composé de beaucoup de scènes différentes et leur enchainement peu
 
 Ces informations peuvent être importantes dans les sections qui suivent.
 
-### Bugs:
+### Bugs
 
 plusieurs bugs sont présents dans le jeu et, bien qu'il n'empêchent pas le jeu d'être complété, ils peuvent perturber le joueur ou bien le dévellopement du jeu:
 
@@ -137,7 +137,7 @@ plusieurs bugs sont présents dans le jeu et, bien qu'il n'empêchent pas le jeu
 
 d'autre bugs sont sûrement présents dans le jeu ; soit j'ai oublié de les mentionner, soit je ne les ai pas rencontrés lors de mes tests.
 
-### Améliorations:
+### Améliorations
 
 Plusieurs points du jeu peuvent être améliorés ou bien sont différents de ce que j'avais envisagé:
 
@@ -157,7 +157,7 @@ Plusieurs points du jeu peuvent être améliorés ou bien sont différents de ce
 
 - Code: Le code a de nombreux points à améliorer et il serait long de tous les mentionner ; les principaux sont surtout les emplacements du code ou la méthode employée n'est pas optimisée ou la plus convenable.
 
-### Bons aspects du jeu:
+### Bons aspects du jeu
 
 Il y a des éléments du jeu dont je suis fier du rendu final, et il ne suffirait que de quelques ajouts pour les rendre meilleurs:
 
@@ -169,7 +169,7 @@ Il y a des éléments du jeu dont je suis fier du rendu final, et il ne suffirai
 
 - La structure du jeu ressemble à ce qu'il se fait normalement dans d'autre jeu, où on explore d'abord la carte avant de rencontrer un évènement qui fait avancer l'histoire. Bien que cela reste très simpliste et assez redondant, je suis assez content que le jeu ai gardé cet aspect de connection fluide entre les scènes au travers du dévellopement.
 
-### Retours sur le projet:
+### Retours sur le projet
 
 Quand j'ai entendu parlé du concours, j'ai eu envie d'y participer et j'ai directement eu une idée du résultat final. Avec des amis, on avait l'intention de participer ensemble au projet, mais la quantité de travail que l'on avait à côté leur a fait changer d'avis. Avec du recul, en voyant l'ambition initiale que j'avais, il n'étais pas raisonable de se lancer tout seul dans le projet. Cela m'a permis d'apprendre l'importance d'une équipe lors de la réalisation d'un projet, et de mieux comprendre les charges de travail que je peux réaliser.
 
