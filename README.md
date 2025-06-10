@@ -1,9 +1,21 @@
 # DREAMLAND - NEMASU PROJECT
 
+### Lien vidéo
+
+https://youtu.be/Y0p8CGI40J8
+
 Les informations seront séparées en deux parties ; tout d'abord celles importantes pour jouer au jeu, et ensuite mes retours personnels du projet.
 
 ## Informations importantes
 
+_Le jeu n'a pas pu être hébergé par manque de temps. Désolé pour ce problème. Pour lancer le programme, installez les fichiers et lancez la commande suivante à la racine du dossier:_
+```
+serve -s dist
+```
+Si vous n'avez pas la commande serve, vous pouvez l'installer avec la commande:
+```
+npm install -g serve
+```
 Membres de l'équipe / pseudonymes Github:
 
 BETEILLE Clément / clellw
